@@ -40,8 +40,10 @@ Predict the number of rental bikes needed on the streets of Washington D.C. each
 ## Project Setup and Execution
 
 ### Requirements
-Install the required libraries:
+
 ```bash
+Install the required libraries:
+
 pip install pandas requests seaborn matplotlib scikit-learn
 
 
